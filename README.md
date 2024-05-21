@@ -1,6 +1,5 @@
 # Cofrinho
-Mini sistema em Java para estudo de Programação Orientada a Objetos
-Pequeno sistema que emula um "Cofrinho de moedas" em Java.
+Pequeno sistema que emula um "Cofrinho de moedas" em Java (desenvolvido para estudo de Programação Orientada a Objetos).
 
 Possui um menu em que é oferecido ao usuário: 
 
